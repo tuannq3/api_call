@@ -179,7 +179,7 @@ class _MyHomePageState extends State<MyHomePage> {
   void initState() {
     // TODO: implement initState
     super.initState();
-    _textEditingController.text = 'https://testapi.io/api/tuannq3/test';
+    // _textEditingController.text = 'https://testapi.io/api/tuannq3/test';
 
     getLastRequestUrl();
   }
